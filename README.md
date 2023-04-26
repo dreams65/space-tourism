@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dreams65/space-tourism)
-- Live Site URL: [Add live site URL here](https://dreams65.github.io/space-tourism/)
+- Solution URL: [solution URL](https://github.com/dreams65/space-tourism)
+- Live Site URL: [live site URL](https://dreams65.github.io/space-tourism/)
 
 ### Built with
 
