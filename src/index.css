@@ -142,6 +142,7 @@ body {
     background: var(--main-body-color);
     font-size: 18px;
     color: var(--text-body-color);
+    overflow: hidden;
 }
 
 /*buttons*/

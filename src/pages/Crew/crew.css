@@ -5,13 +5,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    justify-content: flex-end;
     display: flex;
     flex-direction: column;
 
 }
 
 .crew__row {
-    margin-top: 212px;
     overflow: hidden;
 }
 

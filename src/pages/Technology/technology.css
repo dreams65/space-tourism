@@ -6,12 +6,10 @@
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    overflow-x: hidden;
-}
-
-.technology__row {
-    margin-top: 212px;
+    overflow: hidden;
 }
 
 .technology__wrapper {

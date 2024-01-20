@@ -6,12 +6,10 @@
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     overflow-x: hidden;
-}
-
-.destination__row {
-    margin-top: 212px;
 }
 
 .destination__heading {

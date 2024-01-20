@@ -6,7 +6,7 @@
     align-items: center;
     float: right;
     justify-content: space-between;
-    margin-top: 40px;
+    margin-top: 15px;
     position: fixed;
     right: 0;
 
@@ -39,11 +39,11 @@
     background: rgba(255, 255, 255, 0.04);
     background-repeat: no-repeat;
     backdrop-filter: blur(40.7742px);
+    padding: 40px;
 }
 
 .header__nav-items {
     display: flex;
-    padding: 39px 165px 39px 123px;
 }
 
 .header__nav-item {
